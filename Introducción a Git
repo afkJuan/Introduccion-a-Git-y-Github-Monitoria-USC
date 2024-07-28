@@ -15,15 +15,15 @@ distribuidos.
 --¿QUE ES GIT? (Explicado de forma didactica):
 
 Digamos que un proyecto en Git es como tener nuestro propio "árbol" donde la raiz principal va a ser la base de tu codigo de tu proyecto, esa raiz 
-se llamara "Main" o "Master", esto quiere decir que va a ser la rama principal de nuestro "árbol". Esta rama puede seguir creciendo y creciendo... 
-eso quiere decir que puede ir "cambiando de version en tu proyecto" mediante "cambios" o "changes" y preparando esos cambios a la rama principal o 
-tambien llamado "add changes". 
+se llamara "Main" o "Master", esto quiere decir que va a ser la rama principal de nuestro "árbol". 
+
+Esta rama puede seguir creciendo y creciendo... eso quiere decir que puede ir "cambiando de version en tu proyecto" mediante "cambios" o "changes" y
+preparando esos cambios a la rama principal o tambien llamado "add changes". 
 
 Finalmente podras llevar esos cambios a la rama principal "main" a este proceso se le llama "commit" y asi poder crecer tu árbol o proyecto y tener
 un historial de tu árbol o tambien llamado "versiones" anteriores de tus cambios agragados o tambien llamado "log".
 
--ILUSTRACION:
-
+--ILUSTRACION:
 (Árbol horizontal)
 ---
 -------
