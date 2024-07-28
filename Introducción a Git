@@ -2,13 +2,14 @@
 
 Este material ha sido creado por Juan Camilo Rodríguez Portilla, Monitor de APO 2, bajo la supervisión del profesor Loaiza.
 
----------------------------------------------------------------------------------/* SECCION I */---------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------/* SECCION I */-----------------------------------------------------------------------------------
 
 --INTRODUCCIÓN A GIT
 Git es una herramienta de control de versiones distribuido que permite a los desarrolladores gestionar y seguir los cambios en el código de un proyecto.
 Es como un historial para tu código, ayudándote a regresar a versiones anteriores si es necesario.
 
-Fue creado por Linus Torvalds en 2005, y su diseño se enfoca en la velocidad, la integridad de los datos y la compatibilidad con flujos de trabajo distribuidos.
+Fue creado por Linus Torvalds en 2005, y su diseño se enfoca en la velocidad, la integridad de los datos y la compatibilidad con flujos de trabajo 
+distribuidos.
 
 
 --¿QUE ES GIT? (Explicado de forma didactica):
@@ -32,6 +33,6 @@ un historial de tu árbol o tambien llamado "versiones" anteriores de tus cambio
 
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
