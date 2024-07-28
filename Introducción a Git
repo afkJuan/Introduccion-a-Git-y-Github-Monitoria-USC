@@ -5,18 +5,20 @@ Este material ha sido creado por Juan Camilo Rodríguez Portilla, Monitor de APO
 ---------------------------------------------------------------------------------/* SECCION I */---------------------------------------------------------------------------------------------------------------
 
 --INTRODUCCIÓN A GIT
-Git es una herramienta de control de versiones distribuido que permite a los desarrolladores gestionar y seguir los cambios en el código de un proyecto. Es como un historial para tu código, 
-ayudándote a regresar a versiones anteriores si es necesario.
+Git es una herramienta de control de versiones distribuido que permite a los desarrolladores gestionar y seguir los cambios en el código de un proyecto.
+Es como un historial para tu código, ayudándote a regresar a versiones anteriores si es necesario.
 
 Fue creado por Linus Torvalds en 2005, y su diseño se enfoca en la velocidad, la integridad de los datos y la compatibilidad con flujos de trabajo distribuidos.
 
 
 --¿QUE ES GIT? (Explicado de forma didactica):
 
-Digamos que un proyecto en Git es como tener nuestro propio "árbol" donde la raiz principal va a ser la base de tu codigo de tu proyecto, esa raiz se llamara "Main" o "Master", esto quiere decir que 
-va a ser la rama principal de nuestro "árbol". Esta rama puede seguir creciendo y creciendo... osea puede ir "cambiando de version en tu proyecto" mediante "cambios" o "changes" y preparando esos 
-cambios a la rama principal o tambien llamado "add changes" donde finalmente podras llevar esos cambios a la rama principal "main" a este proceso se le llama "commit" y asi poder crecer tu árbol o
-proyecto y tener un historial de tu árbol o tambien llamado "versiones" anteriores de tus cambios agragados o tambien llamado "log".
+Digamos que un proyecto en Git es como tener nuestro propio "árbol" donde la raiz principal va a ser la base de tu codigo de tu proyecto, esa raiz se llamara 
+"Main" o "Master", esto quiere decir que va a ser la rama principal de nuestro "árbol". Esta rama puede seguir creciendo y creciendo... osea puede ir
+"cambiando de version en tu proyecto" mediante "cambios" o "changes" y preparando esos cambios a la rama principal o tambien llamado "add changes". 
+
+Finalmente podras llevar esos cambios a la rama principal "main" a este proceso se le llama "commit" y asi poder crecer tu árbol o proyecto y tener
+un historial de tu árbol o tambien llamado "versiones" anteriores de tus cambios agragados o tambien llamado "log".
 
 -ILUSTRACION:
 
