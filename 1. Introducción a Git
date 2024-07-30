@@ -54,9 +54,9 @@ haciendo las pruebas para cuando se verifique que todo esta correcto pueda que e
 --ILUSTRACION 2:
 (Árbol horizontal): Merge
 
----                 /*Create Rama Secundaria* --> *add changes* --> *commits* \ 
---------          /                                                            \*Merge*
-"RAMA MAIN" ------------------------------------------------------------------> "MAIN VERSION 2"----->
+---             /*Create Rama Secundaria* --> *add changes* --> *commits* \ 
+--------       /                                                           \*Merge*
+"RAMA MAIN" --------------------------------------------------------------> "MAIN VERSION 2"------>
 --------
 ---
 
