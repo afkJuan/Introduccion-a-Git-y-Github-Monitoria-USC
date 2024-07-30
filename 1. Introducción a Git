@@ -16,22 +16,40 @@ distribuidos.
 Digamos que un proyecto en Git es como tener nuestro propio "árbol" donde la raiz principal va a ser la base de tu codigo de tu proyecto, esa raiz 
 se llamara "Main" o "Master", esto quiere decir que va a ser la rama principal de nuestro "árbol". 
 
-Esta rama puede seguir creciendo y creciendo... eso quiere decir que puede ir "cambiando de version en tu proyecto" mediante "cambios" o "changes" 
+Esta rama puede seguir creciendo y creciendo... eso quiere decir que puede ir cambiando de version en tu proyecto mediante "cambios" o "changes" 
 y preparando esos cambios a la rama principal o tambien llamado "add changes". 
 
 Finalmente podras llevar esos cambios a la rama principal "main" a este proceso se le llama "commit" y asi poder crecer tu árbol o proyecto y tener
 un historial de tu árbol o tambien llamado "versiones" anteriores de tus cambios agragados o tambien llamado "log".
 
 --ILUSTRACION:
-(Árbol horizontal)
+(Árbol horizontal) : Rama Main - add - commits -Version Main
+
 ---
--------
-"RAIZ MAIN" --> add changes ---> commits ---> "MAIN VERSION 1" add changes  ----> commits ---> "MAIN VERSION 2"-------->
--------
+--------
+"RAMA MAIN" --> add changes ---> commits ---> "MAIN VERSION 1" add changes  ----> commits ---> "MAIN VERSION 2"-------->
+--------
 ---
 
+Recordemos que los arboles tienen "ramas" no solo es una rama en concreto, estas ramas son copia de tu rama principal o "main" donde podras hacer 
+tambien hacer cambios pero que no afecten a tu rama "main" de tu proyecto ya que es la version final y estable del proyecto.
 
+NOTA: Estas ramas sirven para cuando vayas a trabajar en equipo durante el desarrollo ya que se podra repartir tareas y implementarlas en las ramas
+para revision de los cambios que se quieran implementar.
 
+Nadie quiere que corte o dañe tu rama 'main' por que es la raiz de nuestro proyecto entonces es mejor hacer copias de esa rama principal y ir 
+haciendo las pruebas para cuando se verifique que todo esta correcto pueda que esa rama se "una" o "merge" y asi implementar esos cambios a la rama
+"Main" y que sea un nuevo cambio o version del proyecto.
 
+--ILUSTRACION 2:
+(Árbol horizontal): Merge
+
+---                 /*Create Rama Secundaria* --> *add changes* --> *commits* \ 
+--------          /                                                            \*Merge*
+"RAMA MAIN" ------------------------------------------------------------------> "MAIN VERSION 2"----->
+--------
+---
+
+ 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
