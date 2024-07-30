@@ -26,7 +26,7 @@ un historial de tu árbol o tambien llamado "versiones" anteriores de tus cambio
 
 
 --ILUSTRACION:
-(Árbol horizontal) : Rama Main - add - commits -Version Main
+(Árbol horizontal)
 
 ---
 --------
@@ -49,7 +49,7 @@ la rama "Main" y que sea un nuevo cambio o version del proyecto.
 
 
 --ILUSTRACION 2:
-(Árbol horizontal): Merge
+(Árbol horizontal)
 
 ---             /*Create Rama Secundaria* --> *add changes* --> *commits* \ 
 --------       /                                                           \*Merge*
