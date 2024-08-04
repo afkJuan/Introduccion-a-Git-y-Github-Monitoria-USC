@@ -60,7 +60,7 @@ la rama "Main" y que sea un nuevo cambio o version del proyecto.
 ---
 
 
-Con esta introducción, ahora estás listo para implementarlo. Por favor, dirígete a la sección 2: INSTALACIÓN Y USO DE GIT en este repositorio.
+Con esta introducción, ahora estás listo para implementarlo. Por favor, dirígete a la INSTALACIÓN Y USO DE GIT en este repositorio.
  
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
