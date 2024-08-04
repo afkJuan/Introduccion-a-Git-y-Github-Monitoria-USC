@@ -9,11 +9,11 @@ Aqui aprenderas el proceso de instalar git y los comandos basicos para implement
 
 Hay diferentes maneras de descargar y intalar GIT en tu sistema operativo, estas son las recomendadas.
 
-  WINDOWS: Descarga Git desde git-scm.com e instala el paquete
+---WINDOWS: Descarga Git desde git-scm.com e instala el paquete
 
-  MAC: brew install git
+---MAC: brew install git
 
-  LINUX: sudo apt-get install git
+---LINUX: sudo apt-get install git
 
 
 2.CONFIGURACION INICIAL (CONSOLA):
@@ -27,6 +27,7 @@ Configura tu nombre de usuario y correo electrónico, que serán usados en tus c
 -------------------------------COMANDOS BASICOS DE GIT LOCALES----------------------------------
 
 Estos comandos se usan localmente para gestionar tu repositorio Git:
+
 
 3. CRER UN NUEVO REPOSITORIO:
 
