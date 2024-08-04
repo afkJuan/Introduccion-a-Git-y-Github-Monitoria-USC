@@ -1,6 +1,5 @@
 -------------------------------------------------------------/* SECCION I */---------------------------------------------------------------------------
 
-
 --INTRODUCCIÓN A GIT
 Git es una herramienta de control de versiones distribuido que permite a los desarrolladores gestionar y seguir los cambios en el código de un
 proyecto. Es como un historial para tu código, ayudándote a regresar a versiones anteriores si es necesario.
