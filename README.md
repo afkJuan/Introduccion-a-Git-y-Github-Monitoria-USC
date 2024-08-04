@@ -12,15 +12,6 @@ proyecto. Es como un historial para tu código, ayudándote a regresar a version
 Fue creado por Linus Torvalds en 2005, y su diseño se enfoca en la velocidad, la integridad de los datos y la compatibilidad con flujos de trabajo 
 distribuidos.
 
-
-
-
-
-
-
-
-
-
 --¿QUE ES GIT? (Explicado de forma didactica):
 
 
