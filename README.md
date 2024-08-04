@@ -14,7 +14,9 @@ Fue creado por Linus Torvalds en 2005, y su diseño se enfoca en la velocidad, l
 distribuidos.
 
 
+
 --¿QUE ES GIT? (Explicado de forma didactica):
+
 
 Digamos que un proyecto en Git es como tener nuestro propio "árbol" donde la raiz principal va a ser la base de tu codigo de tu proyecto, esa raiz 
 se llamara "Main" o "Master", esto quiere decir que va a ser la rama principal de nuestro "árbol". 
