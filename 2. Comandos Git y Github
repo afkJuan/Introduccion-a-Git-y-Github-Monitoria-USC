@@ -1,0 +1,55 @@
+2.CONFIGURACION INICIAL (CONSOLA):
+
+Configura tu nombre de usuario y correo electrónico, que serán usados en tus commits:
+
+    git config --global user.name "tu nombre"
+    git config --global user.email "tuemail@example.com"
+
+
+-------------------------------COMANDOS BASICOS DE GIT LOCALES----------------------------------
+
+Estos comandos se usan localmente para gestionar tu repositorio Git:
+
+
+3. CRER UN NUEVO REPOSITORIO:
+
+Para crear un nuevo repositorio Git, navega al directorio donde quieres crear el repositorio y ejecuta:
+
+    git init
+
+
+4. VER ESTADO ACTUAL DEL REPOSITORIO:
+
+    git status
+
+
+5. AÑADIR ARCHIVOS A LA AREA DE PREPARACION DEL REPOSITORIO
+
+Para añadir archivos modificados al área de preparación (staging area), usa:
+
+    git add nombre_archivo
+
+Para añadir todos los archivos modificados:
+
+    git add .
+
+
+6. HACER UN COMMIT AL REPOSITORIO
+
+Un commit guarda tus cambios preparados en el repositorio. Usa:
+
+    git commit -m "Mensaje del commit"
+
+
+7. CREAR Y CAMBIAR RAMAS 
+    git branch nombre_rama_nueva
+    NOTA: solo con "git branch" te muestra en que rama estas.
+
+    git checkout nombre_rama
+
+8. FUSIONAR RAMAS
+  
+    git merge nombre_rama
+
+
+
