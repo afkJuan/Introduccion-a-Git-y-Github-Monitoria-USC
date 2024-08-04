@@ -3,7 +3,6 @@
 Este material ha sido creado por Juan Camilo Rodríguez Portilla, Monitor de APO 2, bajo la supervisión del profesor Loaiza.
 
 
-------------------------------------------------------/* SECCION I */------------------------------------------------------
 
 --INTRODUCCIÓN A GIT:
 
