@@ -1,4 +1,10 @@
-2.CONFIGURACION INICIAL (CONSOLA):
+¡Bienvenida a la Instalaciòn y uso de GIT
+
+Aqui aprenderas los comandos basicos para implementarlos en consola (Linea de comandos).
+
+-------------------------------------------------------------/* SECCION 2 */---------------------------------------------------------------------------
+
+1.CONFIGURACION INICIAL (CONSOLA):
 
 Configura tu nombre de usuario y correo electrónico, que serán usados en tus commits:
 
@@ -11,19 +17,19 @@ Configura tu nombre de usuario y correo electrónico, que serán usados en tus c
 Estos comandos se usan localmente para gestionar tu repositorio Git:
 
 
-3. CRER UN NUEVO REPOSITORIO:
+2. CRER UN NUEVO REPOSITORIO:
 
 Para crear un nuevo repositorio Git, navega al directorio donde quieres crear el repositorio y ejecuta:
 
     git init
 
 
-4. VER ESTADO ACTUAL DEL REPOSITORIO:
+3. VER ESTADO ACTUAL DEL REPOSITORIO:
 
     git status
 
 
-5. AÑADIR ARCHIVOS A LA AREA DE PREPARACION DEL REPOSITORIO
+4. AÑADIR ARCHIVOS A LA AREA DE PREPARACION DEL REPOSITORIO
 
 Para añadir archivos modificados al área de preparación (staging area), usa:
 
@@ -34,20 +40,20 @@ Para añadir todos los archivos modificados:
     git add .
 
 
-6. HACER UN COMMIT AL REPOSITORIO
+5. HACER UN COMMIT AL REPOSITORIO
 
 Un commit guarda tus cambios preparados en el repositorio. Usa:
 
     git commit -m "Mensaje del commit"
 
 
-7. CREAR Y CAMBIAR RAMAS 
+6. CREAR Y CAMBIAR RAMAS 
     git branch nombre_rama_nueva
     NOTA: solo con "git branch" te muestra en que rama estas.
 
     git checkout nombre_rama
 
-8. FUSIONAR RAMAS
+7. FUSIONAR RAMAS
   
     git merge nombre_rama
 
