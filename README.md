@@ -40,7 +40,7 @@ Nadie quiere que se corte o dañe la rama 'main' porque es la raíz de nuestro p
 
 (Árbol horizontal)
 
-![ramasGitBranch drawio](https://github.com/user-attachments/assets/65b80dbf-792d-40bf-a4f7-302e368c28a5)
+![Uploading ramasGitBranch.drawio.png…]()
 
 
 
