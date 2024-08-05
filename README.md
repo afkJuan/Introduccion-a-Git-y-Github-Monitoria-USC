@@ -22,7 +22,7 @@ Finalmente, podrás llevar esos cambios a la rama principal "main"; a este proce
 
 (Árbol horizontal)
 
-"RAMA MAIN" --> add changes ---> commits ---> "MAIN VERSION 1" add changes ----> commits ---> "MAIN VERSION 2"-------->
+![image](https://github.com/user-attachments/assets/70bff347-fe1e-4e67-bebb-eebda85cc7dd)
 
 
 ## Uso de Ramas en Equipo
