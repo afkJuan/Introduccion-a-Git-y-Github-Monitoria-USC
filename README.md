@@ -40,7 +40,8 @@ Nadie quiere que se corte o dañe la rama 'main' porque es la raíz de nuestro p
 
 (Árbol horizontal)
 
-![ramasGitBranch drawio](https://github.com/user-attachments/assets/0dcc327b-4f2d-477d-aad7-10ae4e1d23ec)
+
+![ramasGitBranch drawio](https://github.com/user-attachments/assets/eb48773b-f5bb-4785-aff6-7ac9f59d7f26)
 
 
 ## Con esta introducción, ahora estás listo para implementarlo. Por favor, dirígete a la **INSTALACIÓN Y USO DE GIT** en este repositorio.
