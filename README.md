@@ -22,7 +22,8 @@ Finalmente, podrás llevar esos cambios a la rama principal "main"; a este proce
 
 (Árbol horizontal)
 
-![image](https://github.com/user-attachments/assets/70bff347-fe1e-4e67-bebb-eebda85cc7dd)
+![ramasGit drawio](https://github.com/user-attachments/assets/a21e1d8c-1ff6-46da-bd43-29e7575cfd42)
+
 
 
 ## Uso de Ramas en Equipo
