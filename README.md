@@ -42,10 +42,7 @@ Nadie quiere que se corte o dañe la rama 'main' porque es la raíz de nuestro p
 
 ![ramasGitBranch drawio](https://github.com/user-attachments/assets/e81965d2-838b-413a-8f8a-40f3c66713ca)
 
-
-
-
-##Con esta introducción, ahora estás listo para implementarlo. Por favor, dirígete a la **INSTALACIÓN Y USO DE GIT** en este repositorio.
+## Con esta introducción, ahora estás listo para implementarlo. Por favor, dirígete a la **INSTALACIÓN Y USO DE GIT** en este repositorio.
 
 ---
 
