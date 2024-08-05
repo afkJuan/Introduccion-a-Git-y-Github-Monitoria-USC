@@ -45,7 +45,7 @@ Nadie quiere que se corte o dañe la rama 'main' porque es la raíz de nuestro p
 
 
 
-Con esta introducción, ahora estás listo para implementarlo. Por favor, dirígete a la **INSTALACIÓN Y USO DE GIT** en este repositorio.
+##Con esta introducción, ahora estás listo para implementarlo. Por favor, dirígete a la **INSTALACIÓN Y USO DE GIT** en este repositorio.
 
 ---
 
