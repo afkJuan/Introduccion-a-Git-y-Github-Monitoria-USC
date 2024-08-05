@@ -28,7 +28,7 @@ Finalmente, podrás llevar esos cambios a la rama principal "main"; a este proce
 
 
 
-## Uso de Ramas en Equipo
+## Uso de Ramas 
 
 Recordemos que los árboles tienen "ramas"; no solo es una rama en concreto. Estas ramas son copias de tu rama principal o "main", donde también puedes hacer cambios sin afectar la rama "main" de tu proyecto, ya que esta es la versión final y estable del proyecto.
 
