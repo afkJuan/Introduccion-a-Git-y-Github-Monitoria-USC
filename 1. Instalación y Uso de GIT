@@ -1,5 +1,5 @@
 
-¡Bienvenida a la Instalaciòn y uso de GIT
+¡Bienvenida a la Instalaciòn de GIT
 
 -------------------------------------------------------------/* SECCION I */---------------------------------------------------------------------------
 
@@ -12,6 +12,8 @@ Hay diferentes maneras de descargar y intalar GIT en tu sistema operativo, estas
 ---MAC: brew install git
 
 ---LINUX: sudo apt-get install git
+
+Siguiendo los pasos anteriore dependiendo de tu S.O, puedes ir punto 2 del repositorio (2.Comandos Git y Github)
 
 
 
